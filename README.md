@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Este projeto é um validador completo de bandeiras de cartão de crédito desenvolvido com React e simulação do GitHub Copilot. A aplicação é capaz de identificar múltiplas bandeiras de cartão e validar números usando o algoritmo de Luhn.
+Este projeto é um validador completo de bandeiras de cartão de crédito desenvolvido com React e GitHub Copilot. A aplicação é capaz de identificar múltiplas bandeiras de cartão e validar números usando o algoritmo de Luhn.
 
 ## Funcionalidades
 
